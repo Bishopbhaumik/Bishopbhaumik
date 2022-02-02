@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **bishop.bhoumik@gmail.com**
 
+- 📄 Know about my experiences [Resume_Bishop.pdf](Resume_Bishop.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
