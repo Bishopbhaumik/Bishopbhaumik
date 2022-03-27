@@ -17,6 +17,11 @@
 <p align="left">
 </p>
 
+<h2 align="left">Statistics:</h2>
+<p align="left">
+</p>
+
+
 
 <!-- [![Bishop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishopbhaumik)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Bishop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishopbhaumik&show_icons=true&theme=tokyonight)
