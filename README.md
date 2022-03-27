@@ -9,13 +9,17 @@
 
 - 💬 Ask me about **python**
 
-- 📫 How to reach me **bishop.bhoumik@gmail.com**
+<!-- - 📫 How to reach me **bishop.bhoumik@gmail.com** -->
 
 - 📄 Know about my experiences [Resume_Bishop.pdf](Resume_Bishop.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+Email:bishop.bhoumik@gmail.com
+
+[Linkedin](https://www.linkedin.com/in/bishop-bhaumik-37a33b1ba/)
 
 <h3 align="left">Statistics:</h3>
 <p align="left">
