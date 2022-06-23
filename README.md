@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bishop Bhaumik</h1>
-<h3 align="center">A CSSE B.Tech pre-final year student ,I am a pythonista.Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects.</h3>
+<h3 align="center">A CSSE B.Tech final year student ,I am a pythonista. MERN Stack developer Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects.</h3>
 
 - 🔭 I’m currently working on **placements and projects.**
 
 - 🌱 I’m currently learning **Javascript,R**
 
-- 👯 I’m looking to collaborate on **Neural netwok,Deep learning,Data analysis.**
+- 👯 I’m looking to collaborate on **Data Science,Node js,Data analysis,React.**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python,c++,JS**
 
 <!-- - 📫 How to reach me **bishop.bhoumik@gmail.com** -->
 
