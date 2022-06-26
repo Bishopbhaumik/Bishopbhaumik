@@ -1,6 +1,8 @@
 # 💫 About Me:
 A CSSE B.Tech final year student ,I am a pythonista. MERN Stack developer Self-directed and energetic with superior performance in both autonomous or collaborative environments working independently and collaborating with others on group projects.<br><br>🔭 I’m currently working on placements and projects.<br><br>🌱 I’m currently learning Javascript,R<br><br>👯 I’m looking to collaborate on Data Science,Node js,Data analysis,React.<br><br>💬 Ask me about python, c++, JS<br><br>📄 Know about my experiences.[Resume_Bishop.pdf](Bishop_Bhaumik_resume.pdf)
 
+<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bishop-bhaumik-37a33b1ba/) <br/>
